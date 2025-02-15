@@ -17,13 +17,13 @@
 
 Para poder replicar la base de datos deberas tener instalado <a href="https://sbp.enterprisedb.com/getfile.jsp?fileid=1259363">postgresql</a>. Para despues:
 
-1. Entra en la carpeta DB
+- Entra en la carpeta DB
 
     ```sh
     cd .\DB\
     ```
 
-2. Ejecuta el siguiente comando
+- Ejecuta el siguiente comando
 
     ```sh
     psql -U postgre gotrip_db < Replicate gotrip_db.pgsql
