@@ -15,7 +15,7 @@
 
 ### Replicar base de datos
 
-Para poder replicar la base de datos deberas tener instalado <a href="https://sbp.enterprisedb.com/getfile.jsp?fileid=1259363">postgresql</a>. Para despues:
+Para poder replicar la base de datos deberas tener instalado <a target="_blank" href="https://sbp.enterprisedb.com/getfile.jsp?fileid=1259363">postgresql</a>. Para despues:
 
 - Entra en la carpeta DB
 
@@ -71,8 +71,8 @@ Ejecutar el siguiente comando en "\Backend"
 npm run dev
 ```
 Esperamos recibir:
-- "http://localhost:5173"(Front)
-- "http://localhost:1234"(Back)
+- "http://localhost:5173" (Front)
+- "http://localhost:1234" (Back)
 ```sh
 [1]   VITE v6.1.0  ready in 1090 ms
 [1]
@@ -87,6 +87,6 @@ Esperamos recibir:
 ```
 <h3>Extencion de comentarios (Better Comments)</h3>
 
-Los comentarios estan escrito para ser visto con la extencion <a href="https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments">Better Comments</a>.
+Los comentarios estan escrito para ser visto con la extencion <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments">Better Comments</a>.
 
 <img src="./imgforREADME/5.png"></img>
