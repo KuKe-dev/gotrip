@@ -15,7 +15,7 @@
 
 ### Replicar base de datos
 
-Para poder replicar la base de datos deberas tener instalado <a target="_blank" href="https://sbp.enterprisedb.com/getfile.jsp?fileid=1259363">postgresql</a>. Para despues:
+Para poder replicar la base de datos deberas tener instalado <a Target="_blank" href="https://sbp.enterprisedb.com/getfile.jsp?fileid=1259363">postgresql</a>. Para despues:
 
 - Entra en la carpeta DB
 
@@ -87,6 +87,6 @@ Esperamos recibir:
 ```
 <h3>Extencion de comentarios (Better Comments)</h3>
 
-Los comentarios estan escrito para ser visto con la extencion <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments">Better Comments</a>.
+Los comentarios estan escrito para ser visto con la extencion <a Target="_blank" href="https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments">Better Comments</a>.
 
 <img src="./imgforREADME/5.png"></img>
