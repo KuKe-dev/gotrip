@@ -88,7 +88,7 @@ Esperamos recibir:
 [0] Server is running in http://localhost:1234
 ```
 
-## Extensión de comentarios (Better Comments)
+<h3 id="3">Extensión de comentarios (Better Comments)</h3>
 
 Los comentarios están escritos para ser vistos con la extensión <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments">Better Comments</a>.
 
